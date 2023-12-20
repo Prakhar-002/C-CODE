@@ -186,7 +186,7 @@ void main(){
                   printf("Thank you !!!\n");
                   exit(0);
             default:
-                  printf("wrong choice !!!\n");
+                  printf("Wrong Choice !!!\n");
                   break;
             }
       }

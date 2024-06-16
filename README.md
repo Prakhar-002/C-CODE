@@ -2,6 +2,7 @@
 
 This repository contains `implementations of various data structures and algorithms in C language`. 
 
+</br>
 
 ## Data Structures 🐦
 
